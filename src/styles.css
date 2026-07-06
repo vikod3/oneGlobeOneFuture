@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@800&display=swap');
-
 * {
   box-sizing: border-box;
   margin: 0;
@@ -12,6 +10,13 @@ body {
   font-family: 'Inter', sans-serif;
   letter-spacing: -0.01em;
   min-height: 100vh;
+}
+
+@font-face {
+  font-family: 'Futura Display';
+  src: url('https://fontdownloader.net/wp-content/uploads/download/Futura-Font/WOFF2/Futura%20Extra%20Bold.woff2') format('woff2');
+  font-weight: 400 900;
+  font-display: swap;
 }
 
 /* Showcase layout */
@@ -151,9 +156,9 @@ body {
   position: absolute;
   top: -19px;
   left: -19px;
-  font-family: 'Barlow Condensed', 'Jost', sans-serif;
+  font-family: 'Futura Display', 'Jost', sans-serif;
   font-weight: 900;
-  font-size: 76px;
+  font-size: 68px;
   line-height: 0.72;
   color: #16112b;
   opacity: 0.5;
@@ -204,12 +209,12 @@ body {
   position: relative;
   z-index: 1;
   margin-left: -1px;
-  font-family: 'Barlow Condensed', 'Jost', sans-serif;
+  font-family: 'Futura Display', 'Jost', sans-serif;
   font-weight: 900;
-  font-size: 42px;
+  font-size: 37px;
   line-height: 0.98;
   color: #7442e9;
-  letter-spacing: 0.5px;
+  letter-spacing: -0.7px;
   text-transform: uppercase;
   text-align: left;
   white-space: nowrap;
@@ -376,13 +381,13 @@ body {
   position: absolute;
   left: 22px;
   bottom: 96px;
-  font-family: 'Barlow Condensed', 'Jost', sans-serif;
+  font-family: 'Futura Display', 'Jost', sans-serif;
   font-weight: 900;
-  font-size: 72px;
+  font-size: 66px;
   line-height: 0.78;
   color: #7f52ef;
   text-transform: uppercase;
-  letter-spacing: 0.01em;
+  letter-spacing: -0.02em;
   z-index: 2;
 }
 
@@ -524,13 +529,12 @@ body {
 }
 
 .deck-card-title {
-  font-family: 'Barlow Condensed', 'Jost', sans-serif;
+  font-family: 'Futura Display', 'Jost', sans-serif;
   font-weight: 900;
-  font-size: 22px;
+  font-size: 19px;
   line-height: 0.99;
   color: #7f59e5;
   text-transform: uppercase;
-  letter-spacing: 0.5px;
   letter-spacing: -0.02em;
   white-space: pre-line;
 }
@@ -631,13 +635,13 @@ body {
   position: absolute;
   left: 22px;
   bottom: 32px;
-  font-family: 'Barlow Condensed', 'Jost', sans-serif;
+  font-family: 'Futura Display', 'Jost', sans-serif;
   font-weight: 900;
-  font-size: 35px;
+  font-size: 31px;
   line-height: 0.94;
   color: #7f52ef;
   text-transform: uppercase;
-  letter-spacing: 0.01em;
+  letter-spacing: -0.02em;
   z-index: 5;
 }
 

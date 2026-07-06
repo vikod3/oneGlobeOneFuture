@@ -14,7 +14,7 @@ body {
 
 @font-face {
   font-family: 'Futura Display';
-  src: url('/assets/fonts/FuturaExtraBold.ttf') format('truetype');
+  src: url('https://fontdownloader.net/wp-content/uploads/download/Futura-Font/WOFF2/Futura%20Extra%20Bold.woff2') format('woff2');
   font-weight: 400 900;
   font-display: swap;
 }

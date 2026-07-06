@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@800&display=swap');
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -10,13 +12,6 @@ body {
   font-family: 'Inter', sans-serif;
   letter-spacing: -0.01em;
   min-height: 100vh;
-}
-
-@font-face {
-  font-family: 'Futura Display';
-  src: url('https://fontdownloader.net/wp-content/uploads/download/Futura-Font/WOFF2/Futura%20Extra%20Bold.woff2') format('woff2');
-  font-weight: 400 900;
-  font-display: swap;
 }
 
 /* Showcase layout */
@@ -156,7 +151,7 @@ body {
   position: absolute;
   top: -19px;
   left: -19px;
-  font-family: 'Futura Display', 'Jost', sans-serif;
+  font-family: 'Barlow Condensed', 'Jost', sans-serif;
   font-weight: 900;
   font-size: 68px;
   line-height: 0.72;
@@ -209,7 +204,7 @@ body {
   position: relative;
   z-index: 1;
   margin-left: -1px;
-  font-family: 'Futura Display', 'Jost', sans-serif;
+  font-family: 'Barlow Condensed', 'Jost', sans-serif;
   font-weight: 900;
   font-size: 37px;
   line-height: 0.98;
@@ -381,7 +376,7 @@ body {
   position: absolute;
   left: 22px;
   bottom: 96px;
-  font-family: 'Futura Display', 'Jost', sans-serif;
+  font-family: 'Barlow Condensed', 'Jost', sans-serif;
   font-weight: 900;
   font-size: 66px;
   line-height: 0.78;
@@ -529,7 +524,7 @@ body {
 }
 
 .deck-card-title {
-  font-family: 'Futura Display', 'Jost', sans-serif;
+  font-family: 'Barlow Condensed', 'Jost', sans-serif;
   font-weight: 900;
   font-size: 19px;
   line-height: 0.99;
@@ -635,7 +630,7 @@ body {
   position: absolute;
   left: 22px;
   bottom: 32px;
-  font-family: 'Futura Display', 'Jost', sans-serif;
+  font-family: 'Barlow Condensed', 'Jost', sans-serif;
   font-weight: 900;
   font-size: 31px;
   line-height: 0.94;

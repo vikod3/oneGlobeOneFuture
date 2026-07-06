@@ -14,8 +14,8 @@ body {
 
 @font-face {
   font-family: 'Qanelas-Heavy';
-  src: url('https://db.onlinewebfonts.com/c/3010f9da43a41a81d5daa32bd6edebc2?family=Qanelas-Heavy') format('woff2'),
-       url('https://db.onlinewebfonts.com/c/3010f9da43a41a81d5daa32bd6edebc2?family=Qanelas-Heavy') format('woff');
+  src: url('https://db.onlinewebfonts.com/t/3010f9da43a41a81d5daa32bd6edebc2.woff2') format('woff2'),
+       url('https://db.onlinewebfonts.com/t/3010f9da43a41a81d5daa32bd6edebc2.woff') format('woff');
   font-weight: 900;
   font-style: normal;
   font-display: swap;

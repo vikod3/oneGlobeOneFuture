@@ -277,7 +277,7 @@ body {
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 40px;
+  bottom: 80px;
   height: 20%;
   background: linear-gradient(to bottom, transparent, #060410);
   z-index: 4;

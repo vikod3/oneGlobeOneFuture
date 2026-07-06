@@ -259,24 +259,25 @@ body {
   color: #f2f0f8;
 }
 
-/* Globe */
+/* Video / Globe */
 .globe-container {
   position: absolute;
   left: 0;
   right: 0;
   bottom: 0;
-  height: 294px;
+  height: 540px;
   z-index: 3;
+  overflow: hidden;
 }
 
 .globe-img {
   position: absolute;
-  left: calc(50% - 8px);
-  bottom: -18px;
+  left: 50%;
+  bottom: 0;
   transform: translateX(-50%);
   width: 540px;
   height: 540px;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 /* Countdown */

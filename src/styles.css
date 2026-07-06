@@ -13,8 +13,8 @@ body {
 }
 
 @font-face {
-  font-family: 'Futura Display';
-  src: url('https://fontdownloader.net/wp-content/uploads/download/Futura-Font/WOFF2/Futura%20Extra%20Bold.woff2') format('woff2');
+  font-family: 'Qanelas-Heavy';
+  src: url('https://db.onlinewebfonts.com/c/3010f9da43a41a81d5daa32bd6edebc2?family=Qanelas-Heavy') format('woff');
   font-weight: 400 900;
   font-display: swap;
 }
@@ -156,7 +156,7 @@ body {
   position: absolute;
   top: -19px;
   left: -19px;
-  font-family: 'Futura Display', 'Jost', sans-serif;
+  font-family: 'Qanelas-Heavy', sans-serif;
   font-weight: 900;
   font-size: 68px;
   line-height: 0.72;
@@ -209,7 +209,7 @@ body {
   position: relative;
   z-index: 1;
   margin-left: -1px;
-  font-family: 'Futura Display', 'Jost', sans-serif;
+  font-family: 'Qanelas-Heavy', sans-serif;
   font-weight: 900;
   font-size: 37px;
   line-height: 0.98;
@@ -381,7 +381,7 @@ body {
   position: absolute;
   left: 22px;
   bottom: 96px;
-  font-family: 'Futura Display', 'Jost', sans-serif;
+  font-family: 'Qanelas-Heavy', sans-serif;
   font-weight: 900;
   font-size: 66px;
   line-height: 0.78;
@@ -529,7 +529,7 @@ body {
 }
 
 .deck-card-title {
-  font-family: 'Futura Display', 'Jost', sans-serif;
+  font-family: 'Qanelas-Heavy', sans-serif;
   font-weight: 900;
   font-size: 19px;
   line-height: 0.99;
@@ -635,7 +635,7 @@ body {
   position: absolute;
   left: 22px;
   bottom: 32px;
-  font-family: 'Futura Display', 'Jost', sans-serif;
+  font-family: 'Qanelas-Heavy', sans-serif;
   font-weight: 900;
   font-size: 31px;
   line-height: 0.94;

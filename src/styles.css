@@ -153,7 +153,7 @@ body {
   left: -19px;
   font-family: 'Barlow Condensed', 'Jost', sans-serif;
   font-weight: 900;
-  font-size: 68px;
+  font-size: 76px;
   line-height: 0.72;
   color: #16112b;
   opacity: 0.5;
@@ -206,10 +206,10 @@ body {
   margin-left: -1px;
   font-family: 'Barlow Condensed', 'Jost', sans-serif;
   font-weight: 900;
-  font-size: 37px;
+  font-size: 42px;
   line-height: 0.98;
   color: #7442e9;
-  letter-spacing: -0.7px;
+  letter-spacing: 0.5px;
   text-transform: uppercase;
   text-align: left;
   white-space: nowrap;
@@ -378,11 +378,11 @@ body {
   bottom: 96px;
   font-family: 'Barlow Condensed', 'Jost', sans-serif;
   font-weight: 900;
-  font-size: 66px;
+  font-size: 72px;
   line-height: 0.78;
   color: #7f52ef;
   text-transform: uppercase;
-  letter-spacing: -0.02em;
+  letter-spacing: 0.01em;
   z-index: 2;
 }
 
@@ -526,10 +526,11 @@ body {
 .deck-card-title {
   font-family: 'Barlow Condensed', 'Jost', sans-serif;
   font-weight: 900;
-  font-size: 19px;
+  font-size: 22px;
   line-height: 0.99;
   color: #7f59e5;
   text-transform: uppercase;
+  letter-spacing: 0.5px;
   letter-spacing: -0.02em;
   white-space: pre-line;
 }
@@ -632,11 +633,11 @@ body {
   bottom: 32px;
   font-family: 'Barlow Condensed', 'Jost', sans-serif;
   font-weight: 900;
-  font-size: 31px;
+  font-size: 35px;
   line-height: 0.94;
   color: #7f52ef;
   text-transform: uppercase;
-  letter-spacing: -0.02em;
+  letter-spacing: 0.01em;
   z-index: 5;
 }
 
